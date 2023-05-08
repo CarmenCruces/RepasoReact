@@ -1,0 +1,21 @@
+.basic-btn{
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: black;
+    border: none;
+}
+
+.frame{
+    background-color: transparent;
+    border: 4px solid aqua;
+    color: aqua;
+}
+
+.solid-green{
+    background-color: green;
+    color: white;
+    border: none;
+}
